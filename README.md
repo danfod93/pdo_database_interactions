@@ -1,5 +1,4 @@
-# In this small app you can test the basic DB interactions
-through PDO connection
+# In this small app you can test the basic DB interactions through PDO connection
 - I included 2 MySQL DB table creation query in the txt.
   You can use those or create your own, in this case you need to
   edit the queries, variables and placeholders.
